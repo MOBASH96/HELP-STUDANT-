@@ -1,0 +1,19 @@
+*{
+  background-color: rgb(107, 166, 255);  
+}
+#cors{
+    background-color: orange;
+}
+
+table, td, th {
+    border: 1px solid black;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  table{
+      width: 50px;
+      height: 150px;
+  }
